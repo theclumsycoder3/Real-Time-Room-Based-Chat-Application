@@ -38,3 +38,24 @@ All chat messages are stored and retrieved from **MongoDB** for persistence.
 
 ---
 
+# 📸 Demo Screenshots
+
+**Home Page (Select/Create Room)**  
+![Home](https://github.com/theclumsycoder3/Real-Time-Room-Based-Chat-Application/blob/e542d7e2e0838764b0d25043ab36dca99a6cad7d/Screenshots/Screenshot%202025-11-08%20114555.png)
+
+---
+
+**Create / Join a Chat Room Page**  
+![CreateRoom](https://github.com/theclumsycoder3/Real-Time-Room-Based-Chat-Application/blob/e542d7e2e0838764b0d25043ab36dca99a6cad7d/Screenshots/Screenshot%202025-11-08%20114632.png)
+![CreateRoom](https://github.com/theclumsycoder3/Real-Time-Room-Based-Chat-Application/blob/e542d7e2e0838764b0d25043ab36dca99a6cad7d/Screenshots/Screenshot%202025-11-08%20114736.png)
+
+---
+
+**Chat Room – Real-Time Messaging**  
+![ChatRoom](https://github.com/theclumsycoder3/Real-Time-Room-Based-Chat-Application/blob/e542d7e2e0838764b0d25043ab36dca99a6cad7d/Screenshots/Screenshot%202025-11-08%20114800.png)
+
+---
+
+**MongoDB Stored Chat Messages (Document View)**  
+![Database](https://github.com/theclumsycoder3/Real-Time-Room-Based-Chat-Application/blob/e542d7e2e0838764b0d25043ab36dca99a6cad7d/Screenshots/Screenshot%202025-11-08%20120030.png)
+
